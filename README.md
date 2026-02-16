@@ -1,9 +1,6 @@
 # Data-Warriors-India-AI-Impact-Buildathon
 grand finale
 
-Here is a **clean, judge-friendly README.md** you can paste directly into your repo.
-
----
 
 # 🛡️ AI Honeypot Scam Detection API
 
@@ -231,5 +228,4 @@ Built to simulate real-world honeypot behaviour at scale.
 
 ---
 
-If you want, I can also give a short `architecture.md` for extra polish.
 
